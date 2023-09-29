@@ -1,8 +1,8 @@
 package Characters;
 
-import Tools.Weapon;
+import Main.Items;
 
-public class Armor {
+public class Armor extends Items {
     private int id, block,price;
     private String name;
 

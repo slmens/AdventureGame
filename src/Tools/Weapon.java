@@ -1,6 +1,8 @@
 package Tools;
 
-public class Weapon {
+import Main.Items;
+
+public class Weapon extends Items {
     private String name;
     private int id, damage, price;
 

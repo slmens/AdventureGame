@@ -1,6 +1,6 @@
 package Location;
 
-public class Monster {
+public class Monster<T> {
     private int id,damage,health,prize,defaultHealth;
     private String name;
 
