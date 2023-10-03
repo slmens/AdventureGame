@@ -3,7 +3,7 @@ Patika+ assignment
 
 Değerlendirme yapacak arkadaşlarımın daha kolay değerlendirebilmesi için önemli noktaları buraya yazdım.
 
-------- İlk Ödev: Ödülleri toplayınca oyunun bitmesi ve bir lokasyondaki ödülü alınca bir daha o lokasyona giremememek -------
+------- İlk Ödev: Ödülleri toplayınca oyunun bitmesi ve bir lokasyondaki ödülü alınca bir daha o lokasyona girememek -------
 
 Her lokasyondaki ödüller bu şekilde kazanılıyor: combat metodu true gelirse o lokasyondaki herkesi ölmeden öldürebilmişiz demektir. True dönünce hangi lokasyonda olduğumuza göre doğru ödülü veren bir switch case tanımladım. 
 
